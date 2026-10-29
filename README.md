@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="96" alt="">
+  <img src="docs/image.png" width="1000" alt="">
 </p>
 
 <h1 align="center">taurus.</h1>
